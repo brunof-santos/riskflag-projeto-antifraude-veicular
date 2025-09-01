@@ -6,8 +6,8 @@ Este projeto tem como objetivo **identificar potenciais fraudes em propostas de 
 ---
 
 ## Estrutura do Projeto
-- **Notebook:** Jupyter Notebook contendo análise exploratória, pré-processamento, modelagem, avaliação e visualização de métricas.  
-- **Slides:** Breve apresentação executiva mostrando o impacto do modelo no negócio e resultados financeiros estimados.  
+- **Notebook (Projeto_Anti_Fraude_Veicular.ipynb):** Jupyter Notebook contendo análise exploratória, pré-processamento, modelagem, avaliação e visualização de métricas.  
+- **Slides (Apresentacao_RiskFlag.pdf):** Breve apresentação executiva mostrando o impacto do modelo no negócio e resultados financeiros estimados.  
 - **Dados:** Colunas incluem `id`,`documento`,`mes_ref`,`vlr_financiado`, `VAR1` a `VAR200` e `alvo` (fraude 0/1)`.  
 
 ---
